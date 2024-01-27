@@ -7,6 +7,6 @@
 <hr/>
 
 ### Ferramentas e Linguagens
-![image]({https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
