@@ -5,7 +5,6 @@
 <hr/>
   
 ## Sobre
-Sejam bem-vindos.
 Aqui você pode visualizar meu perfil e minhas competências profissionais!! 
 <p/>
 Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em AWS + DevOps, trago uma boa bagagem de conhecimento distribuído nos diversos serviços em nuvem.
