@@ -6,7 +6,7 @@ Aqui você pode visualizar meu perfil e minhas competências profissionais!!
 <p/>
 Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em AWS + DevOps, trago uma boa bagagem de conhecimento distribuído nos diversos serviços em nuvem.
   
-![Teste](https://github.com/everton-amaral/everton-amaral/blob/f6c28766ae63e6f14b9a629503685fa7d4e461be/SAA.png?raw=true)
+![SAA](https://github.com/everton-amaral/everton-amaral/blob/f6c28766ae63e6f14b9a629503685fa7d4e461be/SAA.png?raw=true)![CLF](https://github.com/everton-amaral/everton-amaral/blob/f6c28766ae63e6f14b9a629503685fa7d4e461be/CLF.png?raw=true)
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
