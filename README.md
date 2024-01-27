@@ -12,7 +12,8 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 <hr/>
 
 ### Linguagens e Ferramentas
-![image](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![image](https://img.shields.io/badge/-YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)![image](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
 
 ### Cloud | Cloud Services
 
