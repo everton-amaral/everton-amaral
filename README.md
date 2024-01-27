@@ -5,7 +5,9 @@ Sejam bem-vindos.
 Aqui você pode visualizar meu perfil e minhas competências profissionais!! 
 <p/>
 Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em AWS + DevOps, trago uma boa bagagem de conhecimento distribuído nos diversos serviços em nuvem.
-  
+[Certificado LinkedIn](https://www.credly.com/badges/e7eed435-cf90-448a-8dfc-e977b58fda3d/linked_in_profile)
+
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0BC027&center=true&vCenter=true&random=false&width=435&lines=DevOps+Engineer;Cloud+Solution+Architect" alt="Typing SVG" /></a>
 <hr/>
