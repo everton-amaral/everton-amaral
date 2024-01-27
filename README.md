@@ -21,7 +21,7 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 ![image](https://img.shields.io/badge/-googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ![image](https://img.shields.io/badge/-heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![image](https://img.shields.io/badge/-render.com-46E3B7?style=for-the-badge&logo=Render&logoColor=white)
+![image](https://img.shields.io/badge/-render.com-232F3E?style=for-the-badge&logo=Render&logoColor=white)
 
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
