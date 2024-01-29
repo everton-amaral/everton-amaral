@@ -35,6 +35,18 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+## Ferramentas
+![image](https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![image](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![image](https://img.shields.io/badge/rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![image](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![image](https://img.shields.io/badge/newrelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+![image](https://img.shields.io/badge/newrelic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
+
+
+
+
 ## Contatos
 <a href="https://instagram.com/_amaraleverton/"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/everton-amaral/"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/linkedin.png?raw=true"></a>&nbsp;&nbsp;
