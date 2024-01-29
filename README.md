@@ -11,7 +11,9 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 
 ## Formações
 👨🏽‍🎓 Tecnico em Redes de Computadores (IFTM)
+
 👨🏽‍🎓 CST em Redes de Computadores (Faculdade Pitágoras)
+
 👨🏽‍🎓 Pós Graduação em Ciência de Dados (Faculdade Pitágoras)
 
 ## Certificações
