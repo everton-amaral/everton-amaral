@@ -41,7 +41,10 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 ![image](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
+![image](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/amazondocumentdb-C925D1?style=for-the-badge&logo=amazondocumentdb&logoColor=white)
 
 ## Contatos
 <a href="https://instagram.com/_amaraleverton/"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
