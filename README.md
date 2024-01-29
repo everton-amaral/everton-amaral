@@ -31,6 +31,7 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 
 ## Contatos
 <a href="https://instagram.com/_amaraleverton/"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:evertondias000@gmail.com"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/gmail.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/everton-amaral/"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:evertondias000@gmail.com"><img height="30" src="https://github.com/everton-amaral/everton-amaral/blob/imagens/gmail.png?raw=true"></a>&nbsp;&nbsp;
+
 ### EM CONSTRUÇÃO... ###
