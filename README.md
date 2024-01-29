@@ -29,5 +29,7 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+<a href="https://instagram.com/_amaraleverton/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/everton-amaral/"><img height="30" src="https://github.com/Clalloures/Clalloures/blob/master/icon/linkedin.jpg?raw=true"></a>&nbsp;&nbsp;
 
 ### EM CONSTRUÇÃO... ###
