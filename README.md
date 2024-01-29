@@ -19,7 +19,9 @@ Com mais de 7 anos de experiência em T.I e nos últimos 4 anos 100% focado em A
 
 ## CI/CD
 ![image](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![image](https://img.shields.io/badge/githubactions-181717?style=for-the-badge&logo=githubactions&logoColor=white)
+![image](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![image](https://img.shields.io/badge/jenkins-343434?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Cloud | Cloud Services
 ![image](https://img.shields.io/badge/-microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
